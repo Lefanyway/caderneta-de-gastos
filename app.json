@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Caderneta de Gastos",
+    "slug": "caderneta-de-gastos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
+
